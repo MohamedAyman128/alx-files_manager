@@ -74,5 +74,4 @@ DB_DATABASE='test_database' FOLDER_PATH='/tmp/test_folder' npm run test-all
 
 ## Authors
 
-- [Duncan Ngugi](https://github.com/ngugimuchangi)
-- [Samule Ekati](https://github.com/Samuthe)
+- [Mohamed Ayman](https://github.com/MohamedAyman128)
