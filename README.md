@@ -72,6 +72,6 @@ DB_DATABASE='test_database' FOLDER_PATH='/tmp/test_folder' npm test tests/testFi
 DB_DATABASE='test_database' FOLDER_PATH='/tmp/test_folder' npm run test-all
 ```
 
-## Authors
+## Author
 
 - [Mohamed Ayman](https://github.com/MohamedAyman128)
